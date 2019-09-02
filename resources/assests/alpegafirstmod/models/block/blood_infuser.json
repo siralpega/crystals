@@ -1,0 +1,13 @@
+{
+    "parent": "block/cube",
+    "textures": 
+    {
+        "particle": "alpegafirstmod:block/blood_infuser_side",
+        "north": "alpegafirstmod:block/blood_infuser",
+        "down": "alpegafirstmod:block/blood_infuser_bottom",
+        "up": "alpegafirstmod:block/blood_infuser_top",
+        "east": "alpegafirstmod:block/blood_infuser_side",
+        "west": "alpegafirstmod:block/blood_infuser_side",
+        "south": "alpegafirstmod:block/blood_infuser_side"
+    }
+}
