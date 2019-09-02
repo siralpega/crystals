@@ -1,0 +1,11 @@
+{
+    "variants":
+     {
+     	"facing=up"   : { "model": "alpegafirstmod:block/blood_infuser", "x": 270 },
+        "facing=down" : { "model": "alpegafirstmod:block/blood_infuser", "x": 90 },
+        "facing=north": { "model": "alpegafirstmod:block/blood_infuser" },
+        "facing=south": { "model": "alpegafirstmod:block/blood_infuser", "y": 180 },
+        "facing=west" : { "model": "alpegafirstmod:block/blood_infuser", "y": 270 },
+        "facing=east" : { "model": "alpegafirstmod:block/blood_infuser", "y": 90 }
+   	 }
+}
