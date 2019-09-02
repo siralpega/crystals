@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[	
+		{"item": "alpegafirstmod:copper_ingot"},
+		{"item": "alpegafirstmod:copper_ingot"},
+		{"item": "alpegafirstmod:copper_ingot"},
+		{"item": "alpegafirstmod:copper_ingot"},
+		{"item": "alpegafirstmod:copper_ingot"},
+		{"item": "alpegafirstmod:copper_ingot"},
+		{"item": "alpegafirstmod:copper_ingot"},
+		{"item": "alpegafirstmod:copper_ingot"},
+		{"item": "alpegafirstmod:copper_ingot"}
+	],
+	"result": {"item": "alpegafirstmod:copper_block"}
+}

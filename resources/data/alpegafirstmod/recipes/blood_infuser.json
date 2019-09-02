@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"SSS",
+	    "S S",
+		"CCC"
+	],
+	"key":
+	{
+		"C": {"item": "alpegafirstmod:copper_block"},
+		"S": {"item": "minecraft:stone"}
+	},
+	"result": {"item": "alpegafirstmod:blood_infuser"},
+	"count": 1
+	
+}

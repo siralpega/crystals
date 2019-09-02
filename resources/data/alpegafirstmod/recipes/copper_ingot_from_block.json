@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[	
+		{"item": "alpegafirstmod:copper_block"}
+		
+	],
+	"result": {"item": "alpegafirstmod:copper_ingot", "count": 9}
+}

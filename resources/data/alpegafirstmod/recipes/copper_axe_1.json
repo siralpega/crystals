@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"II ",
+	    "IS ",
+		" S "
+	],
+	"key":
+	{
+		"I": {"item": "alpegafirstmod:copper_ingot"},
+		"S": {"item": "minecraft:stick"}
+	},
+	"result": {"item": "alpegafirstmod:copper_axe"},
+	"count": 1
+	
+}
