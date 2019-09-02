@@ -1,0 +1,34 @@
+{
+	"item.alpegafirstmod.copper_ingot": "Copper Ingot",
+	
+	"item.alpegafirstmod.copper_axe": "Copper Axe",
+	"item.alpegafirstmod.copper_pickaxe": "Copper Pickaxe",
+	"item.alpegafirstmod.copper_hoe": "Copper Hoe",
+	"item.alpegafirstmod.copper_shovel": "Copper Shovel",
+	"item.alpegafirstmod.copper_sword": "Copper Sword",
+	"item.alpegafirstmod.copper_helmet": "Copper Helmet",
+	"item.alpegafirstmod.copper_chestplate": "Copper Chestplate",
+	"item.alpegafirstmod.copper_leggings": "Copper Leggings",
+	"item.alpegafirstmod.copper_boots": "Copper Boots",
+	
+	"item.alpegafirstmod.blood_axe": "Blood Axe",
+	"item.alpegafirstmod.first_entity_egg": "First Entity Egg",
+		
+	"block.alpegafirstmod.copper_block": "Copper Block",
+	"block.alpegafirstmod.copper_ore": "Copper Ore",
+	"block.alpegafirstmod.blood_infuser": "Blood Infuser",
+	
+	"block.alpegafirstmod.crystal_red": "Red Crystal",
+	"block.alpegafirstmod.crystal_orange": "Orange Crystal",
+	"block.alpegafirstmod.crystal_yellow": "Yellow Crystal",
+	"block.alpegafirstmod.crystal_green": "Green Crystal",
+	"block.alpegafirstmod.crystal_blue": "Blue Crystal",
+	"block.alpegafirstmod.crystal_white": "White Crystal",
+	"block.alpegafirstmod.crystal_black": "Black Crystal",
+	
+	"tile.alpegafirstmod.infuser": "Infuser",
+	
+	"entity.alpegafirstmod.first_entity": "First Entity",
+	
+	"itemGroup.copper": "First Mod Item Group"
+}
