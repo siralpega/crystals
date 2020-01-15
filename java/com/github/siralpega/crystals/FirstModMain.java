@@ -7,7 +7,6 @@ import com.github.siralpega.firstmod.blocks.BloodInfuserBlock;
 import com.github.siralpega.firstmod.blocks.BloodInfuserScreen;
 import com.github.siralpega.firstmod.blocks.CrystalBlock;
 import com.github.siralpega.firstmod.blocks.tiles.InfuserTileEntity;
-//import com.github.siralpega.firstmod.blocks.tiles.StorageTileEntity;
 import com.github.siralpega.firstmod.client.renders.RenderRegistry;
 import com.github.siralpega.firstmod.config.ModConfig;
 import com.github.siralpega.firstmod.items.CustomAxeItem;
@@ -47,12 +46,7 @@ import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 /**
  * TODO:
- * Option: Get rid of api package, and put inventory and util (for Recipes class) as stand alone inside project. then just copy these for other projects
- * CRYSTAL BLOCK: Crystals might just need one block class, can change color from states? or maybe a method from Block class that can change texture? then just need to register each one w/ method?
- * Add custom effects to BloodAxe
- * Research creating Biomes
- * Upload to github (private at first). At least upload the cross-function / API stuff, that will be useful to have in a centralized place! should be private cause it re-uses other code from other people.
- * If you develop a vision for a mod, like a solid idea instead of just learning/messing around , create a new project and really organize / clean it! this project can still be used for testing/learning!
+ * put inventory and util (for Recipes class) as stand alone inside project. then just copy these for other projects
  */
 /**
  * IDEA: CRYSTALS
